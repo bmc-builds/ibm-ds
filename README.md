@@ -1,2 +1,2 @@
 # ibm-ds
-Artifacts for IBM data science source
+Artifacts for IBM data science course
